@@ -1,0 +1,12 @@
+body {
+  font-family: 'Open Sans', sans-serif !important;
+  background: #f1f1f1;
+} 
+
+.text-slanted {
+  font-family: 'Courgette', cursive;
+}
+
+.brown-color {
+  color: brown;
+}
